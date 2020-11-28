@@ -1,42 +1,18 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "Wordpress",
+    "url": "https://tristanschorn.wordpress.com/",
+    "slug": "wordpress",
     "status": "up",
     "uptime": "100.00%",
-    "time": 71
+    "time": 194
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 94
-  },
-  {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 393
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
+    "name": "Secret Site - OTPWG",
+    "url": "$SECRET_OTPWG",
+    "slug": "secret-site-otpwg",
     "status": "down",
-    "uptime": "100.00%",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "down",
-    "uptime": "96.49%",
+    "uptime": "5.14%",
     "time": 0
   },
   {
@@ -45,6 +21,6 @@
     "slug": "blog",
     "status": "up",
     "uptime": "100.00%",
-    "time": 224
+    "time": 246
   }
 ]
