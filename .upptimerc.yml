@@ -8,6 +8,8 @@ sites:
     url: https://tristanschorn.wordpress.com/
   - name: Secret Site - OTPWG
     url: $SECRET_OTPWG
+  - name: Secret Site - SW
+    url: $SECRET_SW
   - name: Blog
     url: https://tristanschorn.netlify.app/
 
