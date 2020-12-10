@@ -5,7 +5,7 @@
     "slug": "wordpress",
     "status": "up",
     "uptime": "100.00%",
-    "time": 196
+    "time": 199
   },
   {
     "name": "Secret Site - OTPWG",
@@ -29,6 +29,6 @@
     "slug": "blog",
     "status": "up",
     "uptime": "100.00%",
-    "time": 213
+    "time": 206
   }
 ]
